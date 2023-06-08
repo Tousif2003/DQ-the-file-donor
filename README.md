@@ -175,7 +175,7 @@ Use these settings when adding a monitor:</b>
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/Joelkb/DQ-The-File-Donor
+git clone https://github.com/Tousif2003/DQ-the-file-donor
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
